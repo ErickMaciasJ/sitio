@@ -11,3 +11,24 @@ h1 {
     width: 500px;
     height: 300px;
 }
+
+.fut{
+    background-color: chartreuse;
+}
+.bf{
+    background-color: forestgreen;
+}
+.inicio {
+    font-size: 3vw;
+}
+
+.inicio {
+    color: aliceblue;
+}
+
+.bi{
+    font-size: 3vw;
+}
+.bi{
+    color: black;
+}

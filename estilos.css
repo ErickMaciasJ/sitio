@@ -32,3 +32,10 @@ h1 {
 .bi{
     color: black;
 }
+
+.vi {
+    color: black;
+}
+.vi{
+    font-size: 3vw;
+}
